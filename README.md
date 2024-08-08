@@ -11,9 +11,3 @@ This is a simple JavaScript project that counts the number of words, characters,
 ## Screenshot
 
 ![Screenshot](screenshot.jpeg)
-
-3. **Start typing**:
-    - Enter your text in the input field, and the word count will be displayed instantly.
-
-## Project Structure
-
